@@ -2015,7 +2015,7 @@
                     }
                 }
             },
-            "discriminator": "Kind"
+            "discriminator": "kind"
         },
         "DialogStateResponse": {
             "type": "object",
